@@ -1,0 +1,29 @@
+html{
+    font-size: 10px;
+}
+
+.padre {
+    color: greenyellow;
+    text-align: center;
+    width: 25rem;
+    height: 25rem;
+    background-color: black;
+    border: 1px solid black;
+    color: red;
+    margin-bottom: 5rem;
+    justify-content: end;
+
+}
+
+.caja{
+
+    width: 25rem;
+    height: 25rem;
+ 
+    text-align: center;
+    background-color: aquamarine;
+    border: 1px solid black;
+    color: red;
+
+}
+
